@@ -1,0 +1,19 @@
+body{
+	background-color: aqua;
+	text-align: center;
+}
+table{
+	width: 100%;
+	/*border:dotted;*/
+	border-collapse: collapse;
+	text-transform:capitalize;
+}
+tr,td{
+	border: dotted;
+}
+.L{
+	background-color: red;
+}
+.P1{
+	background-color: blue;
+}
